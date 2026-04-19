@@ -1,0 +1,6 @@
+text,label
+"Congratulations! You won a prize http://fake.com",phishing
+"Your account is secure",safe
+"Verify now http://phish.com",phishing
+"Meeting tomorrow at 10",safe
+"Reset password immediately http://secure-login.com",phishing
